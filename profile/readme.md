@@ -6,4 +6,4 @@ For more than 20 years, clients with complex problems in highly regulated indust
 
 [Learn more](https://netcraftsmen.com/about-us/)
 
-![NetCraftsmen BlueAlly Logo](NetCraftsmen_BlueAlly_Logo_FullColor.png)
+![NetCraftsmen BlueAlly Logo](https://github.com/netcraftsmen/.github/blob/master/NetCraftsmen_BlueAlly_Logo_FullColor.png)
